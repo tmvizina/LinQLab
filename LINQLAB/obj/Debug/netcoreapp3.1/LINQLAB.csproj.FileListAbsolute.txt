@@ -1,0 +1,13 @@
+C:\Users\tmviz\source\repos\LINQLAB\LINQLAB\bin\Debug\netcoreapp3.1\LINQLAB.exe
+C:\Users\tmviz\source\repos\LINQLAB\LINQLAB\bin\Debug\netcoreapp3.1\LINQLAB.deps.json
+C:\Users\tmviz\source\repos\LINQLAB\LINQLAB\bin\Debug\netcoreapp3.1\LINQLAB.runtimeconfig.json
+C:\Users\tmviz\source\repos\LINQLAB\LINQLAB\bin\Debug\netcoreapp3.1\LINQLAB.runtimeconfig.dev.json
+C:\Users\tmviz\source\repos\LINQLAB\LINQLAB\bin\Debug\netcoreapp3.1\LINQLAB.dll
+C:\Users\tmviz\source\repos\LINQLAB\LINQLAB\bin\Debug\netcoreapp3.1\LINQLAB.pdb
+C:\Users\tmviz\source\repos\LINQLAB\LINQLAB\obj\Debug\netcoreapp3.1\LINQLAB.csproj.AssemblyReference.cache
+C:\Users\tmviz\source\repos\LINQLAB\LINQLAB\obj\Debug\netcoreapp3.1\LINQLAB.AssemblyInfoInputs.cache
+C:\Users\tmviz\source\repos\LINQLAB\LINQLAB\obj\Debug\netcoreapp3.1\LINQLAB.AssemblyInfo.cs
+C:\Users\tmviz\source\repos\LINQLAB\LINQLAB\obj\Debug\netcoreapp3.1\LINQLAB.csproj.CoreCompileInputs.cache
+C:\Users\tmviz\source\repos\LINQLAB\LINQLAB\obj\Debug\netcoreapp3.1\LINQLAB.dll
+C:\Users\tmviz\source\repos\LINQLAB\LINQLAB\obj\Debug\netcoreapp3.1\LINQLAB.pdb
+C:\Users\tmviz\source\repos\LINQLAB\LINQLAB\obj\Debug\netcoreapp3.1\LINQLAB.genruntimeconfig.cache
